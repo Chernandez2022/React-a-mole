@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import MoleHill from "srcmolehill.png";
+import MoleHill from "../molehill.png";
 
 const EmptySlot = (props) => {
   useEffect(() => {
